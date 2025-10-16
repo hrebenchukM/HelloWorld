@@ -18,7 +18,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
 
     private ImageView imageViewPalm;
-    private Random random = new Random();
+    private final Random random = new Random();
 
     private int totalStrength = 0;
 
