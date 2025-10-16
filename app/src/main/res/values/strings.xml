@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
     <string name="str1">KNP-222</string>
+    <string name="text">text</string>
+    <string name="plant_a_palm" translatable="false">Plant a palm 🌴</string>
+    <string name="water" translatable="false">Water</string>
+    <string name="love_palm" translatable="false">love palm</string>
 </resources>
